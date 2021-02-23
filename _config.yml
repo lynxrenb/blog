@@ -3,7 +3,7 @@ highlighter:      rouge
 
 title:            lynx-blog
 tagline:          'My personal blog.'
-description:      'A blog from programmers.'
+description:      'A blog for programmers.'
 url:              https://lynxrenb.github.io
 baseurl:          '/blog'
 
