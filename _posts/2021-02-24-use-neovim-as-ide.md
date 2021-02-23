@@ -2,8 +2,8 @@
 layout: post
 title: Using Neovim as C++ IDE
 categories:
-    - cpp
-    - neovim
+    - Cpp
+    - Neovim
 tags: 
     - nvim
     - cpp
@@ -65,4 +65,4 @@ _CMAKE_EXPORT_COMPILE_COMMANDS_.
 
 ![neovim compare](https://raw.githubusercontent.com/lynxrenb/files/master/nvim_compare.png)
 
-Default Neovim (left) vs Plugins Included (right).
+Plugins included (left) vs default Neovim (right).
