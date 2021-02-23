@@ -1,6 +1,6 @@
 ---
 layout: category
-title: neovim
+title: Neovim
 ---
 
 Post related to Neovim editor.
