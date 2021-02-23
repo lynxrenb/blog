@@ -27,21 +27,22 @@ You should also have following tools.
 
 ### Project Structure
 
-Your project root should contain _.clang-format_, _.clang-tidy_ and
-_compile_commands.json_ for following tools.
-Use this [starter project](https://github.com/lynxrenb/cpp_starter_project)
+Your project root should contain _.clang-format_, _.clang-tidy_ and _compile_commands.json_
+for following tools. Use this [starter project](https://github.com/lynxrenb/cpp_starter_project)
 if you are new to these files.
 
-* Clang-format  
-clang-format is a tool to automatically format C/C++/Objective-C code,
+* **Clang-format**
+
+  clang-format is a tool to automatically format C/C++/Objective-C code,
 so that developers don't need to worry about style issues during code reviews.
 
-* Clang-tidy  
-clang-tidy is a clang-based C++ “linter” tool. Its purpose is to provide an
+* **Clang-tidy**
+
+  clang-tidy is a clang-based C++ “linter” tool. Its purpose is to provide an
 extensible framework for diagnosing and fixing typical programming errors,
 like style violations, interface misuse, or bugs that can be deduced via static analysis.
 
-* #### Generate _compile_commands.json_
+* **Generate _compile_commands.json_**
 
   This document describes a format for specifying how to replay single compilations
 independently of the build system.
@@ -56,7 +57,7 @@ _CMAKE_EXPORT_COMPILE_COMMANDS_.
 [
   { "directory": "/home/user/cpp",
     "command": "/usr/bin/c++ main.cpp -o main",
-    "file": "main.cpp" },
+    "file": "main.cpp" 
   }
 ]
 ```
