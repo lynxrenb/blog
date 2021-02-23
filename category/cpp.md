@@ -3,4 +3,4 @@ layout: category
 title: c++
 ---
 
-Post realted to C++ programming language.
+Post related to C++ programming language.
