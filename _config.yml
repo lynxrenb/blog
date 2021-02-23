@@ -5,7 +5,7 @@ title:            lynx-blog
 tagline:          'My personal blog.'
 description:      'A blog from programmers.'
 url:              https://lynxrenb.github.io
-baseurl:          '/hydeout'
+baseurl:          '/blog'
 
 author:
   name:           'lynxrenb'
@@ -31,6 +31,5 @@ defaults:
 
 sidebar_home_link:  true
 
-hydeout:
-  version:          4.2.0
-  repo:             https://github.com/fongandrew/hydeout
+blog:
+  repo:             https://github.com/lynxrenb/blog
