@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Cpp
+title: cpp
 ---
 
 Post related to C++ programming language.

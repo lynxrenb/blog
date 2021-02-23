@@ -2,8 +2,8 @@
 layout: post
 title: Using Neovim as C++ IDE
 categories:
-    - Cpp
-    - Neovim
+    - cpp
+    - neovim
 tags: 
     - nvim
     - cpp
