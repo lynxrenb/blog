@@ -1,3 +1,3 @@
 # blog
 
-https://github.io/lynxrenb/blog
+https://lynxrenb.github.io/blog
